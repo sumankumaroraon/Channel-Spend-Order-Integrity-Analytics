@@ -131,7 +131,7 @@ Every check below is implemented independently in [`Python/audit_engine.py`](Pyt
 
 ## The dashboard
 
-[`Dashboard/index.html`](Dashboard/index.html) is a self-contained, four-page interactive dashboard — open it directly in a browser, no server, no build step, and **no internet connection required**. Charting (Chart.js) is vendored directly into the page rather than pulled from a CDN, so it renders identically offline, behind a corporate firewall, or with an ad-blocker running. Every number in it is generated from `outputs/kpi_summary.json` and the other pipeline outputs, so it can never drift from the audit engine's actual results.
+[`dashboard/index.html`](https://sumankumaroraon.github.io/Channel-Spend-Order-Integrity-Analytics/dashboard/) is a self-contained, four-page interactive dashboard — open it directly in a browser, no server, no build step, and **no internet connection required**. Charting (Chart.js) is vendored directly into the page rather than pulled from a CDN, so it renders identically offline, behind a corporate firewall, or with an ad-blocker running. Every number in it is generated from `outputs/kpi_summary.json` and the other pipeline outputs, so it can never drift from the audit engine's actual results.
 
 1. **Overview** — headline KPIs, monthly revenue vs. spend trend, revenue by channel
 2. **Channel & Campaign Performance** — revenue/spend/ROAS/refund rate by channel
