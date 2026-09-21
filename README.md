@@ -31,7 +31,7 @@ Then it answers the follow-up a hiring manager should ask: **how do I know your 
 | Total Flagged Records | 151 | 151 | 151 |
 | Estimated Recoverable Savings | $22,221.09 | $22,221.09 | $22,221.09 |
 
-Three independent implementations of the same audit logic, three identical answers. See [`docs/validation.md`](docs/validation.md) for the full reconciliation across every KPI and every flag type.
+Three independent implementations of the same audit logic, three identical answers. See [`Docs/validation.md`](Docs/validation.md) for the full reconciliation across every KPI and every flag type.
 
 ---
 
@@ -93,7 +93,7 @@ erDiagram
 
 ## The audit engine — 10 checks, built twice
 
-Every check below is implemented independently in [`python/audit_engine.py`](python/audit_engine.py) and as a SQL view in [`sql/audit_flags.sql`](sql/audit_flags.sql). Thresholds live in `policy_rules` (`sql/schema.sql`), not buried in code.
+Every check below is implemented independently in [`Python/audit_engine.py`](Python/audit_engine.py) and as a SQL view in [`SQL/audit_flags.sql`](SQL/audit_flags.sql). Thresholds live in `policy_rules` (`SQL/schema.sql`), not buried in code.
 
 | # | Flag | What it catches |
 |---|---|---|
