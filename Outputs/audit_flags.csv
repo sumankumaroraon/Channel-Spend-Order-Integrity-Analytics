@@ -1,0 +1,152 @@
+record_type,record_id,flag,detail,amount
+campaign,CMP-0001,budget_overrun,"Paid Search - Jan 2025 #1: spent $9,121.68 vs. $9,000.00 approved (1% over)",121.68
+campaign,CMP-0015,budget_overrun,"Paid Search - Mar 2025 #1: spent $9,969.98 vs. $9,930.00 approved (0% over)",39.98
+campaign,CMP-0018,budget_overrun,"Paid Social - Mar 2025 #2: spent $7,906.76 vs. $7,470.00 approved (6% over)",436.76
+campaign,CMP-0022,budget_overrun,"Paid Search - Apr 2025 #1: spent $8,647.55 vs. $8,620.00 approved (0% over)",27.55
+campaign,CMP-0024,budget_overrun,"Paid Social - Apr 2025 #1: spent $8,841.13 vs. $7,310.00 approved (21% over)",1531.13
+campaign,CMP-0032,budget_overrun,"Paid Social - May 2025 #2: spent $7,632.04 vs. $7,330.00 approved (4% over)",302.04
+campaign,CMP-0045,budget_overrun,"Paid Social - Jul 2025 #1: spent $7,791.41 vs. $6,900.00 approved (13% over)",891.41
+campaign,CMP-0047,budget_overrun,"Email - Jul 2025 #1: spent $3,052.55 vs. $2,960.00 approved (3% over)",92.55
+campaign,CMP-0059,budget_overrun,"Paid Social - Sep 2025 #1: spent $7,230.25 vs. $6,920.00 approved (4% over)",310.25
+campaign,CMP-0061,budget_overrun,"Email - Sep 2025 #1: spent $2,865.30 vs. $2,800.00 approved (2% over)",65.3
+campaign,CMP-0063,budget_overrun,"Display - Sep 2025 #1: spent $10,300.67 vs. $10,100.00 approved (2% over)",200.67
+campaign,CMP-0064,budget_overrun,"Paid Search - Oct 2025 #1: spent $9,465.82 vs. $8,970.00 approved (6% over)",495.82
+campaign,CMP-0068,budget_overrun,"Email - Oct 2025 #1: spent $2,980.51 vs. $2,920.00 approved (2% over)",60.51
+campaign,CMP-0078,budget_overrun,"Paid Search - Dec 2025 #1: spent $10,864.31 vs. $9,820.00 approved (11% over)",1044.31
+order,ORD-015859,duplicate_order,Same customer/channel/amount as another order on 2025-12-24,64.35
+order,ORD-ABUSE05471,duplicate_order,Same customer/channel/amount as another order on 2025-06-23,73.31
+order,ORD-DUP0011,duplicate_order,Same customer/channel/amount as another order on 2025-04-06,174.83
+order,ORD-013483,duplicate_order,Same customer/channel/amount as another order on 2025-11-02,35.5
+order,ORD-006290,duplicate_order,Same customer/channel/amount as another order on 2025-05-22,108.81
+order,ORD-003332,duplicate_order,Same customer/channel/amount as another order on 2025-03-17,52.71
+order,ORD-005412,duplicate_order,Same customer/channel/amount as another order on 2025-05-02,71.76
+order,ORD-012524,duplicate_order,Same customer/channel/amount as another order on 2025-10-11,186.33
+order,ORD-015064,duplicate_order,Same customer/channel/amount as another order on 2025-12-06,64.62
+order,ORD-012351,duplicate_order,Same customer/channel/amount as another order on 2025-10-07,72.49
+order,ORD-012537,duplicate_order,Same customer/channel/amount as another order on 2025-10-11,90.05
+order,ORD-009817,duplicate_order,Same customer/channel/amount as another order on 2025-08-10,76.36
+order,ORD-002941,duplicate_order,Same customer/channel/amount as another order on 2025-03-08,111.24
+order,ORD-008773,duplicate_order,Same customer/channel/amount as another order on 2025-07-17,99.13
+order,ORD-008560,duplicate_order,Same customer/channel/amount as another order on 2025-07-12,115.67
+order,ORD-015150,duplicate_order,Same customer/channel/amount as another order on 2025-12-08,55.75
+order,ORD-001321,duplicate_order,Same customer/channel/amount as another order on 2025-01-30,67.3
+order,ORD-008585,duplicate_order,Same customer/channel/amount as another order on 2025-07-13,43.46
+order,ORD-005886,duplicate_order,Same customer/channel/amount as another order on 2025-05-13,113.72
+order,ORD-005336,duplicate_order,Same customer/channel/amount as another order on 2025-05-01,106.55
+order,ORD-000632,duplicate_order,Same customer/channel/amount as another order on 2025-01-15,80.95
+order,ORD-009370,duplicate_order,Same customer/channel/amount as another order on 2025-07-31,90.68
+order,ORD-010144,duplicate_order,Same customer/channel/amount as another order on 2025-08-18,45.42
+order,ORD-006856,duplicate_order,Same customer/channel/amount as another order on 2025-06-04,56.01
+order,ORD-007517,duplicate_order,Same customer/channel/amount as another order on 2025-06-19,82.94
+order,ORD-000139,excessive_discount,50% discount exceeds 25% policy ceiling,27.62
+order,ORD-000691,excessive_discount,35% discount exceeds 25% policy ceiling,51.9
+order,ORD-000896,excessive_discount,40% discount exceeds 25% policy ceiling,23.86
+order,ORD-004259,excessive_discount,30% discount exceeds 25% policy ceiling,14.52
+order,ORD-005523,excessive_discount,35% discount exceeds 25% policy ceiling,16.79
+order,ORD-005737,excessive_discount,30% discount exceeds 25% policy ceiling,18.1
+order,ORD-008690,excessive_discount,35% discount exceeds 25% policy ceiling,30.7
+order,ORD-009406,excessive_discount,40% discount exceeds 25% policy ceiling,58.75
+order,ORD-009561,excessive_discount,50% discount exceeds 25% policy ceiling,19.5
+order,ORD-009579,excessive_discount,30% discount exceeds 25% policy ceiling,49.46
+order,ORD-009797,excessive_discount,50% discount exceeds 25% policy ceiling,45.66
+order,ORD-010529,excessive_discount,50% discount exceeds 25% policy ceiling,57.27
+order,ORD-011455,excessive_discount,35% discount exceeds 25% policy ceiling,41.2
+order,ORD-013126,excessive_discount,50% discount exceeds 25% policy ceiling,45.04
+order,ORD-013403,excessive_discount,40% discount exceeds 25% policy ceiling,61.69
+order,ORD-013541,excessive_discount,40% discount exceeds 25% policy ceiling,22.38
+order,ORD-015081,excessive_discount,30% discount exceeds 25% policy ceiling,28.15
+order,ORD-015923,excessive_discount,30% discount exceeds 25% policy ceiling,27.36
+spend,SPEND-002556,orphan_campaign_spend,$833.05 logged against unknown campaign_id 'CMP-9999',833.05
+spend,SPEND-002557,orphan_campaign_spend,$841.03 logged against unknown campaign_id 'CMP-9999',841.03
+spend,SPEND-002558,orphan_campaign_spend,$383.77 logged against unknown campaign_id 'CMP-9999',383.77
+spend,SPEND-002559,orphan_campaign_spend,$273.86 logged against unknown campaign_id 'CMP-9999',273.86
+spend,SPEND-002560,orphan_campaign_spend,$660.73 logged against unknown campaign_id 'CMP-9999',660.73
+spend,SPEND-002561,orphan_campaign_spend,$765.80 logged against unknown campaign_id 'CMP-9999',765.8
+spend,SPEND-002562,orphan_campaign_spend,$621.36 logged against unknown campaign_id 'CMP-9999',621.36
+spend,SPEND-002563,orphan_campaign_spend,$265.24 logged against unknown campaign_id 'CMP-9999',265.24
+spend,SPEND-002564,orphan_campaign_spend,$269.38 logged against unknown campaign_id 'CMP-9999',269.38
+spend,SPEND-002565,orphan_campaign_spend,$382.47 logged against unknown campaign_id 'CMP-9999',382.47
+spend,SPEND-002566,orphan_campaign_spend,$480.79 logged against unknown campaign_id 'CMP-9999',480.79
+spend,SPEND-002567,orphan_campaign_spend,$425.60 logged against unknown campaign_id 'CMP-9999',425.6
+spend,SPEND-002568,orphan_campaign_spend,$154.42 logged against unknown campaign_id 'CMP-9999',154.42
+spend,SPEND-002569,orphan_campaign_spend,$150.51 logged against unknown campaign_id 'CMP-9999',150.51
+spend,SPEND-002570,orphan_campaign_spend,$897.26 logged against unknown campaign_id 'CMP-9999',897.26
+order,ORD-002822,orphan_customer_id,customer_id 'CUST-UNKNOWN-7' does not exist in the customer master table,81.28
+order,ORD-007975,orphan_customer_id,customer_id 'CUST-UNKNOWN-5' does not exist in the customer master table,104.4
+order,ORD-010576,orphan_customer_id,customer_id 'CUST-UNKNOWN-0' does not exist in the customer master table,116.08
+order,ORD-011081,orphan_customer_id,customer_id 'CUST-UNKNOWN-3' does not exist in the customer master table,104.27
+order,ORD-011927,orphan_customer_id,customer_id 'CUST-UNKNOWN-4' does not exist in the customer master table,192.66
+order,ORD-012341,orphan_customer_id,customer_id 'CUST-UNKNOWN-8' does not exist in the customer master table,403.4
+order,ORD-012424,orphan_customer_id,customer_id 'CUST-UNKNOWN-6' does not exist in the customer master table,121.24
+order,ORD-014630,orphan_customer_id,customer_id 'CUST-UNKNOWN-2' does not exist in the customer master table,113.52
+order,ORD-015003,orphan_customer_id,customer_id 'CUST-UNKNOWN-1' does not exist in the customer master table,104.94
+order,ORD-000945,outlier_order_amount,$371.81 is well above the Affiliate normal range (upper fence $368.56),371.81
+order,ORD-001228,outlier_order_amount,$461.49 is well above the Affiliate normal range (upper fence $368.56),461.49
+order,ORD-001284,outlier_order_amount,$315.88 is well above the Display normal range (upper fence $306.38),315.88
+order,ORD-001884,outlier_order_amount,"$1,432.66 is well above the Paid Search normal range (upper fence $373.87)",1432.66
+order,ORD-002170,outlier_order_amount,$415.85 is well above the Paid Social normal range (upper fence $314.99),415.85
+order,ORD-002524,outlier_order_amount,$407.65 is well above the Paid Search normal range (upper fence $373.87),407.65
+order,ORD-003368,outlier_order_amount,"$2,040.53 is well above the Organic/Direct normal range (upper fence $391.92)",2040.53
+order,ORD-003710,outlier_order_amount,$714.42 is well above the Paid Search normal range (upper fence $373.87),714.42
+order,ORD-005203,outlier_order_amount,"$1,208.58 is well above the Organic/Direct normal range (upper fence $391.92)",1208.58
+order,ORD-005898,outlier_order_amount,$548.23 is well above the Affiliate normal range (upper fence $368.56),548.23
+order,ORD-006280,outlier_order_amount,$890.78 is well above the Paid Social normal range (upper fence $314.99),890.78
+order,ORD-006286,outlier_order_amount,$390.07 is well above the Email normal range (upper fence $347.45),390.07
+order,ORD-006653,outlier_order_amount,$428.06 is well above the Affiliate normal range (upper fence $368.56),428.06
+order,ORD-007195,outlier_order_amount,$485.91 is well above the Organic/Direct normal range (upper fence $391.92),485.91
+order,ORD-007220,outlier_order_amount,$386.91 is well above the Affiliate normal range (upper fence $368.56),386.91
+order,ORD-007857,outlier_order_amount,$857.29 is well above the Email normal range (upper fence $347.45),857.29
+order,ORD-008561,outlier_order_amount,$593.18 is well above the Email normal range (upper fence $347.45),593.18
+order,ORD-008733,outlier_order_amount,$460.71 is well above the Organic/Direct normal range (upper fence $391.92),460.71
+order,ORD-009157,outlier_order_amount,$394.98 is well above the Affiliate normal range (upper fence $368.56),394.98
+order,ORD-010168,outlier_order_amount,"$1,241.21 is well above the Organic/Direct normal range (upper fence $391.92)",1241.21
+order,ORD-010538,outlier_order_amount,"$1,220.47 is well above the Organic/Direct normal range (upper fence $391.92)",1220.47
+order,ORD-011697,outlier_order_amount,$393.07 is well above the Organic/Direct normal range (upper fence $391.92),393.07
+order,ORD-012341,outlier_order_amount,$403.40 is well above the Email normal range (upper fence $347.45),403.4
+order,ORD-014493,outlier_order_amount,$370.71 is well above the Email normal range (upper fence $347.45),370.71
+order,ORD-014948,outlier_order_amount,$397.88 is well above the Organic/Direct normal range (upper fence $391.92),397.88
+order,ORD-016028,outlier_order_amount,$489.34 is well above the Organic/Direct normal range (upper fence $391.92),489.34
+order,ORD-000428,post_campaign_attribution,"Order dated 2025-03-04 is attributed to CMP-0014, which ended 2025-02-28",93.85
+order,ORD-014873,post_campaign_attribution,"Order dated 2025-03-11 is attributed to CMP-0010, which ended 2025-02-28",101.92
+order,ORD-002539,post_campaign_attribution,"Order dated 2025-05-04 is attributed to CMP-0026, which ended 2025-04-30",126.2
+order,ORD-005443,post_campaign_attribution,"Order dated 2025-07-14 is attributed to CMP-0038, which ended 2025-06-30",125.55
+order,ORD-007257,post_campaign_attribution,"Order dated 2025-08-04 is attributed to CMP-0047, which ended 2025-07-31",58.79
+order,ORD-001880,post_campaign_attribution,"Order dated 2025-11-09 is attributed to CMP-0064, which ended 2025-10-31",58.13
+order,ORD-011318,post_campaign_attribution,"Order dated 2025-12-05 is attributed to CMP-0071, which ended 2025-11-30",133.82
+order,ORD-007298,post_campaign_attribution,"Order dated 2026-01-13 is attributed to CMP-0081, which ended 2025-12-31",84.59
+order,ORD-002084,repeat_chargeback_customer,CUST-01771 has 2 chargebacks in the period,54.09
+order,ORD-007295,repeat_chargeback_customer,CUST-01771 has 2 chargebacks in the period,78.66
+order,ORD-ABUSE13873,repeated_refund_pattern,CUST-01387 has 3+ refunds of exactly $86.22 — possible refund abuse,86.22
+order,ORD-ABUSE25433,repeated_refund_pattern,CUST-02543 has 3+ refunds of exactly $82.40 — possible refund abuse,82.4
+order,ORD-ABUSE26720,repeated_refund_pattern,CUST-02672 has 3+ refunds of exactly $65.64 — possible refund abuse,65.64
+order,ORD-ABUSE13872,repeated_refund_pattern,CUST-01387 has 3+ refunds of exactly $86.22 — possible refund abuse,86.22
+order,ORD-ABUSE13871,repeated_refund_pattern,CUST-01387 has 3+ refunds of exactly $86.22 — possible refund abuse,86.22
+order,ORD-ABUSE13870,repeated_refund_pattern,CUST-01387 has 3+ refunds of exactly $86.22 — possible refund abuse,86.22
+order,ORD-ABUSE25430,repeated_refund_pattern,CUST-02543 has 3+ refunds of exactly $82.40 — possible refund abuse,82.4
+order,ORD-ABUSE05472,repeated_refund_pattern,CUST-00547 has 3+ refunds of exactly $73.31 — possible refund abuse,73.31
+order,ORD-ABUSE05471,repeated_refund_pattern,CUST-00547 has 3+ refunds of exactly $73.31 — possible refund abuse,73.31
+order,ORD-ABUSE25432,repeated_refund_pattern,CUST-02543 has 3+ refunds of exactly $82.40 — possible refund abuse,82.4
+order,ORD-ABUSE26723,repeated_refund_pattern,CUST-02672 has 3+ refunds of exactly $65.64 — possible refund abuse,65.64
+order,ORD-ABUSE26722,repeated_refund_pattern,CUST-02672 has 3+ refunds of exactly $65.64 — possible refund abuse,65.64
+order,ORD-ABUSE25431,repeated_refund_pattern,CUST-02543 has 3+ refunds of exactly $82.40 — possible refund abuse,82.4
+order,ORD-ABUSE05470,repeated_refund_pattern,CUST-00547 has 3+ refunds of exactly $73.31 — possible refund abuse,73.31
+order,ORD-ABUSE05473,repeated_refund_pattern,CUST-00547 has 3+ refunds of exactly $73.31 — possible refund abuse,73.31
+order,ORD-ABUSE26721,repeated_refund_pattern,CUST-02672 has 3+ refunds of exactly $65.64 — possible refund abuse,65.64
+spend_day,Affiliate|2025-01-03,wasted_spend_no_orders,$244.81 spent on Affiliate on 2025-01-03 produced zero orders,244.81
+spend_day,Affiliate|2025-03-01,wasted_spend_no_orders,$210.91 spent on Affiliate on 2025-03-01 produced zero orders,210.91
+spend_day,Affiliate|2025-05-16,wasted_spend_no_orders,$254.72 spent on Affiliate on 2025-05-16 produced zero orders,254.72
+spend_day,Display|2025-01-16,wasted_spend_no_orders,$506.90 spent on Display on 2025-01-16 produced zero orders,506.9
+spend_day,Display|2025-03-11,wasted_spend_no_orders,$487.96 spent on Display on 2025-03-11 produced zero orders,487.96
+spend_day,Display|2025-03-28,wasted_spend_no_orders,$493.59 spent on Display on 2025-03-28 produced zero orders,493.59
+spend_day,Display|2025-05-14,wasted_spend_no_orders,$254.02 spent on Display on 2025-05-14 produced zero orders,254.02
+spend_day,Display|2025-05-23,wasted_spend_no_orders,$383.95 spent on Display on 2025-05-23 produced zero orders,383.95
+spend_day,Display|2025-06-17,wasted_spend_no_orders,$388.56 spent on Display on 2025-06-17 produced zero orders,388.56
+spend_day,Display|2025-06-25,wasted_spend_no_orders,$325.87 spent on Display on 2025-06-25 produced zero orders,325.87
+spend_day,Display|2025-07-30,wasted_spend_no_orders,$219.96 spent on Display on 2025-07-30 produced zero orders,219.96
+spend_day,Display|2025-09-23,wasted_spend_no_orders,$296.05 spent on Display on 2025-09-23 produced zero orders,296.05
+spend_day,Display|2025-09-25,wasted_spend_no_orders,$431.01 spent on Display on 2025-09-25 produced zero orders,431.01
+spend_day,Display|2025-10-14,wasted_spend_no_orders,$397.02 spent on Display on 2025-10-14 produced zero orders,397.02
+spend_day,Display|2025-10-31,wasted_spend_no_orders,$397.97 spent on Display on 2025-10-31 produced zero orders,397.97
+spend_day,Display|2025-11-04,wasted_spend_no_orders,$404.39 spent on Display on 2025-11-04 produced zero orders,404.39
+spend_day,Display|2025-11-06,wasted_spend_no_orders,$362.42 spent on Display on 2025-11-06 produced zero orders,362.42
+spend_day,Display|2025-12-18,wasted_spend_no_orders,$355.86 spent on Display on 2025-12-18 produced zero orders,355.86

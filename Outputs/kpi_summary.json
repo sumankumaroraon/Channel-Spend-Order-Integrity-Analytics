@@ -1,0 +1,18 @@
+{
+  "total_revenue": 1526128.54,
+  "total_marketing_spend": 611918.0,
+  "roas": 2.49,
+  "blended_cac": 145.69,
+  "average_order_value": 97.93,
+  "total_orders": 16208,
+  "refund_rate": 0.0511,
+  "total_refund_dollars": 75349.11,
+  "chargeback_rate": 0.0059,
+  "discount_leakage_dollars": 61119.9,
+  "repeat_purchase_rate": 0.9101,
+  "budget_compliance_rate": 0.8333,
+  "campaigns_over_budget": 14,
+  "total_flagged_records": 151,
+  "total_flagged_dollars": 43029.83,
+  "estimated_recoverable_savings": 22221.09
+}
